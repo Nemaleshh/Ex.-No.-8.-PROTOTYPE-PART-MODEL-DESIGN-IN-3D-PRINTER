@@ -48,8 +48,8 @@
 ## Output:
 ![Screenshot 2024-05-10 155415](https://github.com/Kishorerz/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/144451216/f82b231a-a489-4f94-81b8-53eab7417bc6)
 ## MODEL:
-![IMG_20240508_155425](https://github.com/Kishorerz/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/144451216/2e5deecf-6ca1-40d2-be1e-8d35ed3b580f)
-![IMG_20240508_155434](https://github.com/Kishorerz/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/144451216/ae458abd-257b-4964-8210-e59d0cdfb332)
+![image](https://github.com/user-attachments/assets/26a7fd9f-0026-4c9c-8bca-c24276b9267a)
+![image](https://github.com/user-attachments/assets/e3015a96-cd11-4e40-b255-84db4acb057f)
 
 
 ### Name:Nemaleshwar H
